@@ -1,4 +1,6 @@
 🧠 Simple RNN — IMDB Sentiment Analysis
+
+
 An end-to-end deep learning project that uses a Simple Recurrent Neural Network (RNN) to classify IMDB movie reviews as positive or negative.
 
 📌 Project Overview
